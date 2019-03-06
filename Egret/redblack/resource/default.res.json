@@ -1,0 +1,275 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,description_json,benz_btn_guanbi_0_png,benz_img_biaoqian_shiwan_png,benz_img_touxiang_1_png,benz_img_touxiang_xinxi_di_ziji_png,benz_img_touxiangkuang_0_png,bg_jpg,redblack_btn_b_0_png,redblack_btn_fanhui_0_png,redblack_btn_y_0_png,redblack_btn_zi_jieshu_png,redblack_btn_zi_kaishiyouxi_png,redblack_btzi_tishi_png,redblack_img_btnzi_queding_png,redblack_img_btnzi_qx_png,redblack_img_chouma_touying_png,redblack_img_jiesuan_shu_di_png,redblack_img_tk_xiao_png,redblack_img_xinxi_icon_jinbi_png,redblack_img_youxishibai_png,redblack_jinbi_png,redblack_jinbi_di_png,redblack_jishi_di_png,redblack_poker_beimian_png,redblack_poker_hei_png,redblack_poker_hong_png,redblack_poker_tishizi_djfk_png,redblack_tishi_di_png,redblack_tishi_zi_png,redblack_btn_y_0 _black_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "benz_btn_guanbi_0_png",
+			"type": "image",
+			"url": "assets/benz_btn_guanbi_0.png"
+		},
+		{
+			"name": "benz_img_biaoqian_shiwan_png",
+			"type": "image",
+			"url": "assets/benz_img_biaoqian_shiwan.png"
+		},
+		{
+			"name": "benz_img_touxiang_1_png",
+			"type": "image",
+			"url": "assets/benz_img_touxiang_1.png"
+		},
+		{
+			"name": "benz_img_touxiang_xinxi_di_ziji_png",
+			"type": "image",
+			"url": "assets/benz_img_touxiang_xinxi_di_ziji.png"
+		},
+		{
+			"name": "benz_img_touxiangkuang_0_png",
+			"type": "image",
+			"url": "assets/benz_img_touxiangkuang_0.png"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "redblack_btn_b_0_png",
+			"type": "image",
+			"url": "assets/redblack_btn_b_0.png"
+		},
+		{
+			"name": "redblack_btn_fanhui_0_png",
+			"type": "image",
+			"url": "assets/redblack_btn_fanhui_0.png"
+		},
+		{
+			"name": "redblack_btn_y_0_png",
+			"type": "image",
+			"url": "assets/redblack_btn_y_0.png"
+		},
+		{
+			"name": "redblack_btn_zi_jieshu_png",
+			"type": "image",
+			"url": "assets/redblack_btn_zi_jieshu.png"
+		},
+		{
+			"name": "redblack_btn_zi_kaishiyouxi_png",
+			"type": "image",
+			"url": "assets/redblack_btn_zi_kaishiyouxi.png"
+		},
+		{
+			"name": "redblack_btzi_tishi_png",
+			"type": "image",
+			"url": "assets/redblack_btzi_tishi.png"
+		},
+		{
+			"name": "redblack_img_btnzi_queding_png",
+			"type": "image",
+			"url": "assets/redblack_img_btnzi_queding.png"
+		},
+		{
+			"name": "redblack_img_btnzi_qx_png",
+			"type": "image",
+			"url": "assets/redblack_img_btnzi_qx.png"
+		},
+		{
+			"name": "redblack_img_chouma_touying_png",
+			"type": "image",
+			"url": "assets/redblack_img_chouma_touying.png"
+		},
+		{
+			"name": "redblack_img_jiesuan_shu_di_png",
+			"type": "image",
+			"url": "assets/redblack_img_jiesuan_shu_di.png"
+		},
+		{
+			"name": "redblack_img_tk_xiao_png",
+			"type": "image",
+			"url": "assets/redblack_img_tk_xiao.png"
+		},
+		{
+			"name": "redblack_img_xinxi_icon_jinbi_png",
+			"type": "image",
+			"url": "assets/redblack_img_xinxi_icon_jinbi.png"
+		},
+		{
+			"name": "redblack_img_youxishibai_png",
+			"type": "image",
+			"url": "assets/redblack_img_youxishibai.png"
+		},
+		{
+			"name": "redblack_jinbi_png",
+			"type": "image",
+			"url": "assets/redblack_jinbi.png"
+		},
+		{
+			"name": "redblack_jinbi_di_png",
+			"type": "image",
+			"url": "assets/redblack_jinbi_di.png"
+		},
+		{
+			"name": "redblack_jishi_di_png",
+			"type": "image",
+			"url": "assets/redblack_jishi_di.png"
+		},
+		{
+			"name": "redblack_poker_beimian_png",
+			"type": "image",
+			"url": "assets/redblack_poker_beimian.png"
+		},
+		{
+			"name": "redblack_poker_hei_png",
+			"type": "image",
+			"url": "assets/redblack_poker_hei.png"
+		},
+		{
+			"name": "redblack_poker_hong_png",
+			"type": "image",
+			"url": "assets/redblack_poker_hong.png"
+		},
+		{
+			"name": "redblack_poker_tishizi_djfk_png",
+			"type": "image",
+			"url": "assets/redblack_poker_tishizi_djfk.png"
+		},
+		{
+			"name": "redblack_tishi_di_png",
+			"type": "image",
+			"url": "assets/redblack_tishi_di.png"
+		},
+		{
+			"name": "redblack_tishi_zi_png",
+			"type": "image",
+			"url": "assets/redblack_tishi_zi.png"
+		},
+		{
+			"name": "redblack_btn_y_0 _black_png",
+			"type": "image",
+			"url": "assets/redblack_btn_y_0 _black.png"
+		}
+	]
+}

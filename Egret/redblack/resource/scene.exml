@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="scene" width="1136" height="640" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Group width="1136" height="640" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" >
+		<e:Image width="1136" height="640" x="1.51" y="1.52" anchorOffsetX="1.51" anchorOffsetY="1.52" source="bg_jpg"/>
+		
+		<e:Button id="beginBtn" label="" anchorOffsetX="115" width="231" anchorOffsetY="31" height="63" scaleX="1" x="442.87" y="580">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="redblack_btn_y_0_png" source.down="redblack_btn_y_0_png" source.disabled="redblack_btn_y_0 _black_png" width.down="90%" height.down="90%"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button id="endBtn" label="" x="709.51" y="581.71" anchorOffsetY="30.3" height="63" anchorOffsetX="103.03">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="redblack_btn_b_0_png" source.down="redblack_btn_b_0_png" width.down="90%" height.down="90%"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button id="returnBtn" label="" anchorOffsetX="34.85" anchorOffsetY="37.88" scaleX="1" horizontalCenter="-499" verticalCenter="-249">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="redblack_btn_fanhui_0_png" source.down="redblack_btn_fanhui_0_png" width.down="90%" height.down="90%"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<ns1:pocker id="pockerOne" width="208" height="292.85" x="261.74" y="192" anchorOffsetX="0" anchorOffsetY="0"/>
+		<ns1:pocker id="pockerTwo" width="205.88" height="295.93" x="665.15" y="190" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Group width="24" height="28" x="1" y="610" anchorOffsetX="0" anchorOffsetY="0">
+			<e:Image width="686" height="60.97" x="224" y="-505" source="redblack_tishi_di_png" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+			<e:Image width="570" height="32" x="282" y="-491" anchorOffsetX="0" anchorOffsetY="0" source="redblack_tishi_zi_png" scaleX="1" scaleY="1"/>
+			<e:Image width="259.75" height="49.75" x="442.37" y="-570.09" anchorOffsetX="0" anchorOffsetY="0" source="redblack_jinbi_di_png" scaleX="1" scaleY="1"/>
+			<e:Image width="45.75" height="39.69" x="450.46" y="-564.49" source="redblack_jinbi_png" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+			<e:Image width="130.31" height="68" x="108.86" y="-62.60000000000002" anchorOffsetX="0" anchorOffsetY="0" source="benz_img_touxiang_xinxi_di_ziji_png" scaleX="1" scaleY="1"/>
+			<e:Image width="84.67" height="90" x="31.310000000000002" y="-74.5" source="benz_img_touxiang_1_png" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+			<e:Image width="87.33" height="90.5" x="29.73" y="-74.5" source="benz_img_touxiangkuang_0_png" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+			<e:Image width="33" height="64" x="31" y="-50" source="benz_img_biaoqian_shiwan_png" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+			<e:Image width="25" height="25" x="118.06" y="-26.600000000000023" source="redblack_img_xinxi_icon_jinbi_png" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+		</e:Group>
+
+		
+
+
+		<e:Group id="openTextGroup" width="20" height="17.33" x="564.3" y="414.18" anchorOffsetX="0" anchorOffsetY="0" alpha="0">
+			<e:Image width="134.67" height="33.34" x="-264.29999999999995" y="-11.17999999999995" source="redblack_poker_tishizi_djfk_png" anchorOffsetX="0" anchorOffsetY="0" alpha="1" scaleX="1" scaleY="1"/>
+			<e:Image width="134.67" height="33.34" x="140.68000000000006" y="-12.509999999999991" source="redblack_poker_tishizi_djfk_png" anchorOffsetX="0" anchorOffsetY="0" alpha="1" scaleX="1" scaleY="1"/>
+		</e:Group>
+		<e:Group id="timeGroup" width="132" height="130.67" x="502" y="270.66" anchorOffsetX="0" anchorOffsetY="0" alpha="0">
+			<e:Image width="109.33" height="108.01" x="11.06" y="15.37" anchorOffsetX="0" anchorOffsetY="0" source="redblack_jishi_di_png"/>
+			<e:Label id="countLabel" text="12" anchorOffsetX="23.94" width="46.02" anchorOffsetY="19.48" height="41.98" size="40" horizontalCenter="0" verticalCenter="3.6650000000000063" verticalAlign="middle" textAlign="center"/>
+		</e:Group>
+		<e:Group id="prompt" width="13" height="11" x="564.51" y="324" anchorOffsetX="0" anchorOffsetY="0" scaleX="0" scaleY="0" alpha="1">
+			<e:Image width="415" height="62" x="-199.99" y="-23" source="redblack_tishi_di_png" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+			<e:Label text="游戏未开始" x="-67.51" y="-8" fontFamily="SimHei" textAlign="center" verticalAlign="middle" scaleX="1" scaleY="1"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>
